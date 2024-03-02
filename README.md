@@ -1,6 +1,2 @@
   
-<p align="center">
-    <a href="https://github.com/rodrigocananea/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigocananea&theme=tokyonight"/>
-    </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigocananea&theme=dark&border_radius=6&mode=weekly)](https://git.io/streak-stats)
