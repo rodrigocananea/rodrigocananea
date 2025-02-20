@@ -2,11 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/rodrigocananea/github-readme-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=rodrigocananea&theme=ayu-mirage&border_radius=6&mode=weekly" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/rodrigocananea/github-readme-stats">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigocananea&count_private=true&show_icons=true&theme=ayu-mirage" />
   </a>
   <a href="https://github.com/rodrigocananea/github-readme-stats">
